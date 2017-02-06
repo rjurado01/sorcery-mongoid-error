@@ -9,7 +9,7 @@ $ rails c
 
 > User
 NoMethodError: undefined method `authenticates_with_sorcery!' for User:Class
-	from /home/user/sorcery_mongoid_error/app/models/user.rb:2:in `<class:User>'
+	from /home/user/sorcery_mongoid_error/app/models/user.rb:3:in `<class:User>'
 	from /home/user/sorcery_mongoid_error/app/models/user.rb:1:in `<top (required)>'
   ...
 ```
